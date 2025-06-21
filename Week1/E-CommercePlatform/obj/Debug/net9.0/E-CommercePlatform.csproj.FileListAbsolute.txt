@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\bin\Debug\net9.0\E-CommercePlatform.exe
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\bin\Debug\net9.0\E-CommercePlatform.deps.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\bin\Debug\net9.0\E-CommercePlatform.runtimeconfig.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\bin\Debug\net9.0\E-CommercePlatform.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\bin\Debug\net9.0\E-CommercePlatform.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.sourcelink.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\refint\E-CommercePlatform.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\E-CommercePlatform.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week1\E-CommercePlatform\obj\Debug\net9.0\ref\E-CommercePlatform.dll
