@@ -1,0 +1,12 @@
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\bin\Debug\net9.0\MyLibrary.deps.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\bin\Debug\net9.0\MyLibrary.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\bin\Debug\net9.0\MyLibrary.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.sourcelink.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\refint\MyLibrary.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\MyLibrary.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\Week2\Exercise4\MyLibrary\obj\Debug\net9.0\ref\MyLibrary.dll

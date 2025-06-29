@@ -1,0 +1,12 @@
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\bin\Debug\net9.0\MoqHandsOn.deps.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\bin\Debug\net9.0\MoqHandsOn.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\bin\Debug\net9.0\MoqHandsOn.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.sourcelink.json
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\refint\MoqHandsOn.dll
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\MoqHandsOn.pdb
+C:\Users\SEC\OneDrive\Desktop\Digital-Nurture-4.0\week2\Exercise5\MoqHandsOn\obj\Debug\net9.0\ref\MoqHandsOn.dll
